@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "oderwat.indent-rainbow",
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig"
+  ]
+}
